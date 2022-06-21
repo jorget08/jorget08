@@ -1,4 +1,9 @@
-### Hi there 👋
+Desarrollador web Full-Stack, con un año y medio de exoreciencia como Backend Dveloper con Django,
+además cuento con proyectos personales y de bootcamp realizados con React, React-Redux para el
+frontend y Node, Express, Sequelize, Django, Django Rest Framework para el backend además del uso de
+bases de datos como PostgreSQL y MySQL. Utilizo la metodologia de desarrollo ágil SCRUM, y GIT/GitHub
+para el control de versopnes y flujos de trabajo en equipos.
+ 👋
 
 <!--
 **jorget08/jorget08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
