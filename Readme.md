@@ -1,4 +1,4 @@
-Desarrollador web Full-Stack, con un año y medio de exoreciencia como Backend Dveloper con Django,
+Desarrollador web Full-Stack, con un año y medio de experiencia como Backend Dveloper con Django,
 además cuento con proyectos personales y de bootcamp realizados con React, React-Redux para el
 frontend y Node, Express, Sequelize, Django, Django Rest Framework para el backend además del uso de
 bases de datos como PostgreSQL y MySQL. Utilizo la metodologia de desarrollo ágil SCRUM, y GIT/GitHub
